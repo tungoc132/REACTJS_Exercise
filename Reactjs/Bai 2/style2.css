@@ -1,0 +1,30 @@
+h1:first-child {
+    text-align: center;
+}
+
+h3 {
+    color: rgb(222, 28, 93);
+    background-color: rgb(246, 194, 235);
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    background-color: rgb(255, 251, 175);
+}
+
+hr {
+    width: 150px;
+}
+
+#first-paragraph {
+    color: blue;
+}
+
+#second-paragraph {
+    color: red;
+}
+
+#third-paragraph {
+    color: green;
+}
