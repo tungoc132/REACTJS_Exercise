@@ -1,0 +1,21 @@
+h2 {
+    text-align: center;
+    color: rgb(20, 143, 143);
+}
+
+#first-part {
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    background-color: rgb(16, 112, 112);
+}
+
+#content {
+    color: rgb(20, 143, 143);
+}
+
+body {
+    background-image: url(corona.jpg);
+    background-size: cover;
+}

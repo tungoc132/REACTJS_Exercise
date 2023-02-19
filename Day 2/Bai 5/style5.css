@@ -1,0 +1,16 @@
+h2 {
+    color: rgb(5, 105, 5);
+}
+
+.title {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.name {
+    color: red;
+}
+
+pre {
+    background-color: rgb(212, 210, 210);
+}
